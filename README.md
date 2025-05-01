@@ -1,4 +1,10 @@
-# aqua_detect_disease_googleNet
-make sure that you run the below code for downloading all libraries required<br>
+# 🐟 Aqua Detect Disease - GoogLeNet
+
+This project uses **GoogLeNet (InceptionV3)** transfer learning to detect fish diseases from images.
+
+## 📦 Requirements
+
+Before running the code, install the necessary dependencies:
+
+```bash
 pip install tensorflow opencv-python scikit-learn matplotlib Pillow numpy
-the above model uses googleNet tarnsfer learning model technique in the code 
